@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.env
+*.egg/
+.venv/
+venv/
+*.json
+!supabase_schema.sql
+!pyproject.toml
+supabase/.temp/
